@@ -1,5 +1,5 @@
 {
-    "buildTime": 1546516492,
+    "buildTime": 1546732484,
     "songCategories": [
         {
             "title": "J-POP",
@@ -822,7 +822,7 @@
                         "hutsuu": "3",
                         "muzukashii": "3",
                         "oni": "3",
-                        "uraOni": "8譜面分岐"
+                        "uraOni": "8*"
                     }
                 },
                 {
@@ -954,7 +954,7 @@
                         "hutsuu": "4",
                         "muzukashii": "6",
                         "oni": "7*",
-                        "uraOni": "8譜面分岐"
+                        "uraOni": "8*"
                     }
                 },
                 {
@@ -3079,7 +3079,7 @@
                         "hutsuu": "5",
                         "muzukashii": "7",
                         "oni": "8",
-                        "uraOni": "10譜面分岐"
+                        "uraOni": "10*"
                     }
                 },
                 {
@@ -3547,7 +3547,7 @@
                         "hutsuu": "4",
                         "muzukashii": "4",
                         "oni": "8*",
-                        "uraOni": "8譜面分岐"
+                        "uraOni": "8*"
                     }
                 },
                 {
@@ -6336,7 +6336,7 @@
                         "hutsuu": "6",
                         "muzukashii": "7",
                         "oni": "8",
-                        "uraOni": "9譜面分岐"
+                        "uraOni": "9*"
                     }
                 },
                 {
@@ -6540,7 +6540,7 @@
                         "hutsuu": "5",
                         "muzukashii": "6",
                         "oni": "9*",
-                        "uraOni": "9譜面分岐"
+                        "uraOni": "9*"
                     }
                 },
                 {

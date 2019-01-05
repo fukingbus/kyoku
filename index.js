@@ -66,7 +66,7 @@ const parse = (raw) => {
                         let level3 = levelOniColumn.text().replace("★×","").replace("譜面分岐","*")
                         let uraOniText = levelUraOniColumn.text()
                         let isUraOniAvailable = uraOniText != "-"
-                        let level4 = isUraOniAvailable ? uraOniText.replace("★×","") : null
+                        let level4 = isUraOniAvailable ? uraOniText.replace("★×","").replace("譜面分岐","*") : null
     
                         songData.songCategories[categoryIterated].songs.push(
                             {
